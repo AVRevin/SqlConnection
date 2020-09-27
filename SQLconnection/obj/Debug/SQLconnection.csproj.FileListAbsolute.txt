@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\SQLconnection\SQLconnection\bin\Debug\SQLconnection.exe.config
+C:\Users\user\source\repos\SQLconnection\SQLconnection\bin\Debug\SQLconnection.exe
+C:\Users\user\source\repos\SQLconnection\SQLconnection\bin\Debug\SQLconnection.pdb
+C:\Users\user\source\repos\SQLconnection\SQLconnection\obj\Debug\SQLconnection.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SQLconnection\SQLconnection\obj\Debug\SQLconnection.Form1.resources
+C:\Users\user\source\repos\SQLconnection\SQLconnection\obj\Debug\SQLconnection.Properties.Resources.resources
+C:\Users\user\source\repos\SQLconnection\SQLconnection\obj\Debug\SQLconnection.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SQLconnection\SQLconnection\obj\Debug\SQLconnection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SQLconnection\SQLconnection\obj\Debug\SQLconnection.exe
+C:\Users\user\source\repos\SQLconnection\SQLconnection\obj\Debug\SQLconnection.pdb
